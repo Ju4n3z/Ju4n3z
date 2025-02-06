@@ -1,7 +1,7 @@
 <div align="center"><img src="https://64.media.tumblr.com/e0b726934821432b7450deaee576e915/tumblr_mlrxrvQRio1r3apovo1_500.gifv" /></div>
 <br>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Juan Gómez</h1>
-<h3 align="center">👨‍💻 Nanotechnology Engineer, Future Fullstack Developer and Physicist</h3>
+<h3 align="center">👨‍💻 Nanotechnology Engineer and Future Physicist</h3>
 
 <br>
 <br>
